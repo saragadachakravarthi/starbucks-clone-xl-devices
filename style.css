@@ -1,0 +1,749 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.img {
+    height: 50px;
+    width: 50px;
+}
+
+.a {
+    border-color: black;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    width: 80px;
+    height: 35px;
+    margin: 10px;
+    background-color: #ffffff;
+    font-family: candara;
+    font-weight: bold;
+}
+
+.store {
+    font-family: candara;
+    font-weight: bold;
+    padding-left: 15px;
+    font-size: 15px;
+    padding-bottom: 20px;
+
+}
+
+.active {
+    font-family: candara;
+    font-weight: bold;
+}
+
+.b {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    width: 90px;
+    height: 35px;
+    padding: 5px;
+}
+
+.location {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    font-size: 25px;
+}
+
+.fon {
+    font-weight: bold;
+}
+
+.d {
+    background-color: #006241;
+    height: 80vh;
+}
+
+.c {
+    background-image: url("https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-87802.jpg");
+    background-size: cover;
+    height: 80vh;
+}
+
+.e {
+    font-weight: bold;
+    color: white;
+    margin: 10px;
+    font-family: roboto;
+    margin-top: 170px;
+    font-size: 50px;
+}
+
+.f {
+    color: white;
+    margin: 10px;
+    font-family: roboto;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.j-f-f {
+    border-radius: 25px;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    font-family: roboto;
+    border-style: solid;
+    border-color: white;
+    margin-top: 25px;
+    height: 40px;
+    width: 140px;
+}
+
+.main-im-2 {
+    background-image: url("https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-87741.jpg");
+    background-size: cover;
+    height: 60vh;
+}
+
+.g {
+
+    background-color: #1e3932;
+    height: 60vh;
+}
+
+.h {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin: 10px;
+    font-family: roboto;
+    margin-top: 100px;
+}
+
+.i {
+    background-color: #ffc0cb;
+    height: 90vh;
+
+}
+
+.j {
+    background-size: cover;
+    height: 85vh;
+}
+
+.k {
+    font-weight: bold;
+    color: black;
+    margin: 10px;
+    font-size: 50px;
+    font-family: candara;
+    margin-top: 170px;
+}
+
+.l {
+    color: black;
+    margin: 10px;
+    font-family: candara;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.m {
+    border-radius: 25px;
+    background-color: transparent;
+    color: black;
+    font-weight: bold;
+    font-family: roboto;
+    border-style: solid;
+    border-color: black;
+    margin-top: 25px;
+    height: 40px;
+    width: 140px;
+}
+
+.main-im-3 {
+    background-image: url("https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-87772.jpg");
+    background-size: cover;
+    height: 95vh;
+}
+
+.red {
+    background-color: #cb202d;
+    height: 95vh;
+    text-align: center;
+}
+
+.h2 {
+    font-size: 60px;
+
+    color: white;
+    margin-top: 170px;
+
+}
+
+.starbucksforlife {
+    text-decoration: underline;
+}
+
+.p1 {
+    margin: 10px;
+    font-family: candara;
+    font-size: 25px;
+    margin-top: 20px;
+    color: white;
+}
+
+.main-im-4 {
+    background-image: url("https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-87702.jpg");
+    background-size: cover;
+    height: 90vh;
+}
+
+.h3 {
+    font-family: roboto;
+    font-weight: bold;
+    color: white;
+}
+
+.p3 {
+    color: white;
+    margin-top: 10px;
+}
+
+.bg4 {
+    background-color: #1e3932;
+    height: 90vh;
+}
+
+.main-im-5 {
+    background-image: url("https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-87773.jpg");
+    background-size: cover;
+    height: 90vh;
+}
+
+.re {
+    background-color: #a2bcd0;
+    height: 90vh;
+    text-align: center;
+}
+
+.h4 {
+    margin-top: 175px;
+    font-size: 30px;
+}
+
+.p4 {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.bu5 {
+    border-radius: 25px;
+    background-color: transparent;
+    color: black;
+    font-weight: bold;
+    font-family: roboto;
+    border-style: solid;
+    border-color: black;
+    margin-top: 25px;
+    height: 40px;
+    width: 140px;
+}
+
+.m6 {
+    margin-top: 80px;
+}
+
+.m7 {
+    margin-top: 40px;
+}
+
+.m8 {
+    margin: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.m9 {
+    margin: 15px;
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+    color: grey;
+    text-align: center;
+}
+
+.m1 {
+    margin: 15px;
+    font-size: 15px;
+    color: black;
+
+}
+
+.ic {
+    margin: 5px;
+}
+
+
+
+
+
+
+
+.reward-pg-container {
+    background-color: #1e3932;
+}
+
+.headingofreward {
+    font-family: Roboto;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 10px;
+    padding-left: 30px;
+}
+
+.rewards-par {
+    height: 100vh;
+    background-size: cover;
+}
+
+.rewards-heading {
+    font-family: roboto;
+    padding-left: 10px;
+    padding-top: 200px;
+    font-weight: bold;
+
+}
+
+.rewards-para {
+    font-family: roboto;
+    padding-left: 10px;
+
+}
+
+.rewards-main-image {
+    background-image: url("https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-71056.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.rewards-button-joinow {
+    color: white;
+    font-weight: bold;
+    font-family: roboto;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 25px;
+    background-color: #006241;
+    width: 120px;
+    height: 40px;
+}
+
+.rewards-join-app {
+    text-decoration: underline;
+
+}
+
+.rewards-para2 {
+    font-family: roboto;
+    padding-left: 10px;
+}
+
+.main-rewards-text {
+    background-color: #d4e9e2;
+}
+
+.rewards-foot {
+    font-family: candara;
+}
+
+.nums-img {
+    height: 50px;
+    width: 50px;
+}
+
+.rewards-h4 {
+    font-family: candara;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.spans {
+    text-decoration: underline;
+    color: #006241;
+    font-weight: 30px;
+
+}
+
+.normal-img {
+    height: 110px;
+    width: 110px;
+}
+
+.normal-img1 {
+    height: 150px;
+    width: 130px;
+}
+
+.rewards-cash-details {
+    background-color: #edebe9;
+}
+
+.rewards-bg-sub-container {
+    background-color: #1e3932;
+}
+
+.rewards-bg-subsub-container {
+    background-color: #d4e9e2;
+    padding: 10px;
+}
+
+.ok-bro {
+    font-family: candara;
+    font-weight: bold;
+}
+
+.normal-img-sub {
+    height: 70px;
+    width: 160px;
+}
+
+.sub-span-rewards {
+    text-decoration: underline;
+    color: #1e3932;
+}
+
+.Join-starbucks-btn {
+    color: white;
+    font-weight: bold;
+    font-family: roboto;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 25px;
+    background-color: #006241;
+    width: 280px;
+    height: 40px;
+}
+
+
+
+
+.top-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.card-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px
+}
+
+@media screen and (min-width:300px) {
+    .card-image {
+        width: 150px;
+    }
+}
+
+.second-container {
+    background-color: #edebe9;
+    display: flex;
+    border-radius: 10px;
+    padding: 20px;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+
+}
+
+.second-container-image {
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+}
+
+.third-container {
+    display: flex;
+    background-color: #d4e9e2;
+    padding: 40px;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.first-part {
+    display: flex;
+}
+
+.second-part {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-left: 20px;
+}
+
+.self1 {
+    align-self: flex-end;
+}
+
+.third-heading {
+    font-size: 20px;
+}
+
+.third-description {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.fourth-container {
+    display: flex;
+    padding: 40px;
+    background-color: #ffffff;
+}
+
+.fourth-container-details {
+    margin-left: 40px;
+    max-width: 200px;
+}
+
+.fourth-container-image {
+    max-height: 380px;
+    width: 350px;
+    margin-left: 50px;
+}
+
+.fourth-container-heading {
+    font-size: 20px;
+}
+
+.fifth-container {
+    background-color: #edebe9;
+}
+
+.fifth-container-heading {
+    font-size: 20px;
+}
+
+.fifth-container-description {
+    max-width: 350px;
+}
+
+.fifth-details {
+    margin-left: 50px;
+    padding: 30px;
+}
+
+.fifth-button {
+    border-radius: 17px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+}
+
+.a {
+    border-color: black;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    width: 70px;
+    margin: 10px;
+}
+
+.b {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    width: 90px;
+    height: 40px;
+}
+
+.location {
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.m1 {
+    margin-left: 90px;
+}
+
+.box {
+    height: 180px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.hr {
+    color: green;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 650px;
+}
+
+
+
+.feat {
+    margin-top: 40px;
+    margin-left: 136px;
+    font-weight: bold;
+}
+
+.head2 {
+    margin-top: 60px;
+}
+
+.pink {
+    background-color: #edebe9;
+    height: 100px;
+    margin-left: 128px;
+    margin-right: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.pink-im {
+    height: 55px;
+    width: 55px;
+    margin: 25px;
+}
+
+.pp {
+    margin-top: 35px;
+
+}
+
+.receive {
+    height: 170px;
+    width: 100vw;
+    background-color: #d4e9e2;
+    margin-left: 0px;
+    margin-top: 25px;
+}
+
+.rec2 {
+    margin-top: 55px;
+    margin-left: 100px;
+    font-size: 25px;
+}
+
+.li {
+    margin-left: 550px;
+    margin-top: 75px;
+    color: green;
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.f {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 28px;
+}
+
+.gp {
+    color: grey;
+    font-size: 15px;
+    margin-top: 7px;
+    margin-left: 20px;
+}
+
+.button1 {
+    color: black;
+    margin-left: 20px;
+
+    background-color: transparent;
+    border-radius: 20px;
+    height: 40px;
+    width: 130px;
+    border-color: black;
+    font-size: 13px;
+}
+
+.button2 {
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+
+    background-color: black;
+    border-radius: 25px;
+    height: 40px;
+    width: 130px;
+    border-color: black;
+    font-size: 13px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container-menu {
+    font-family: candara;
+
+}
+
+.menu-bar-small {
+    background-color: #edebe9;
+}
+
+.item-icon {
+    width: 150px;
+    height: 150px;
+    border-radius: 106px;
+    padding: 18px;
+}
+
+.each-card {
+    min-width: 500px;
+    flex-grow: 1;
+}
+
+.main-sub-menu-heads {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.item-section {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    align-items: center;
+
+}
+
+.item-name {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.sidebar {
+    min-width: 400px;
+    flex-grow: 1;
+}
+
+.menu-bar {
+    font-family: candara;
+    padding: 10px;
+}
+
+.menu-heading {
+    font-weight: bold;
+}
+
+.drinks-heading {
+    font-weight: bold;
+}
+
+.p {
+    color: grey;
+    font-size: 20px;
+}
+
+.content {
+    width: 100%;
+}
